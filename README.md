@@ -1,10 +1,16 @@
 # healthy
-Am I Healthy Mobile App
+**Am I Healthy Mobile App**
 
-I would like to propose a mobile app to beat Coronavirus while getting the economy back into action. Singapore built an app to quarantine only those with the covid-19 rather than blanket stay at home orders. How will people have the confidence to go into public spaces again? Solution: http://josephfluckiger.blogspot.com/2020/03/beat-corona.html
+A mobile app to beat Coronavirus with the smarts of our technology. How will we have the confidence to go into public spaces again? When we know that those around us in our shared spaces are healthy.
+
+![](image/healthy_medium.png "Am I Healthy Mobile App - Have confidence to go into public after the pandemic")
+
+**Additional Solution Details:**
+http://josephfluckiger.blogspot.com/2020/03/beat-corona.html
 
 
-[]
 
-![](image/am_i_healthy_app.png "Am I Healthy Mobile App - Have confidence to go into public after the pandemic")
 
+#Reference Apps
+
+Singapore built an app to quarantine only those with the covid-19 rather than blanket stay at home orders.  
