@@ -1,5 +1,4 @@
-# healthy
-**Am I Healthy Mobile App**
+#Am I Healthy Mobile App
 
 A mobile app to beat Coronavirus with the smarts of our technology. How will we have the confidence to go into public spaces again? When we know that those around us in our shared spaces are healthy.
 
